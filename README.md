@@ -5,18 +5,25 @@
 </h1>
 <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="240"/>
 <div id="badges">
+<a href="mailto:dryeab@gmail.com">
+  <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
 <a href="http://linkedin.com/in/dryeab"> 
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="http://t.me/dryeab">
   <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
-<a href="http://twitter.com/dryeab">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=dryeab&style=flat-square&color=blue" alt=""/>
 </div>
+
+---
+### 🧑 About Me:
+✨ My name is Yeabsira Driba. Currently, a Software Engineering student at Addis Ababa University. <br />
+💻 I am a Mobile Application and Backend Developer. <br />
+🔍 Open for work <br />
+🏖 I enjoy music, movie, board games, solving problems etc. <br />
 
 ---
 
