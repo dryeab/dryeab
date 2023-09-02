@@ -19,7 +19,7 @@
 
 ---
 ### 🧑 About Me
-✨ My name is Yeabsira Driba. I am a Backend Developer. <br />
+✨ My name is Yeabsira Driba. I am a Web Developer. <br />
 🔍 Open for work <br />
 🏖 I enjoy music, movie, board games, solving problems etc. <br />
 
