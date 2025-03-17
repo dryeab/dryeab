@@ -11,7 +11,4 @@
 ### 👨 About Me
 ✨ My name is Yeabsira. I am a Web Developer. <br />
 🔍 Open for work <br />
-🏖 I enjoy music, movie, board games, solving problems etc. <br />
-
----
-
+🏖 I enjoy music, movie, board games, solving problems etc. 
