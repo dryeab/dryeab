@@ -1,9 +1,9 @@
 <div id="header" align="center">
-<h1>
+<h3>
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Welcome!
-</h1>
+</h3>
 </div>
 
 ### 👨 About Me
